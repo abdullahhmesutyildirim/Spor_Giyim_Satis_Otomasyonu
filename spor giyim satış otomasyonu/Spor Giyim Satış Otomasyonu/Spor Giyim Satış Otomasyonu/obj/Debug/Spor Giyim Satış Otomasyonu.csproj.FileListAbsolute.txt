@@ -1,0 +1,18 @@
+C:\Users\LENOVO\Desktop\spor giyim satış otomasyonu\Spor Giyim Satış Otomasyonu\Spor Giyim Satış Otomasyonu\obj\Debug\Spor Giyim Satış Otomasyonu.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\spor giyim satış otomasyonu\Spor Giyim Satış Otomasyonu\Spor Giyim Satış Otomasyonu\obj\Debug\Spor_Giyim_Satış_Otomasyonu.Form1.resources
+C:\Users\LENOVO\Desktop\spor giyim satış otomasyonu\Spor Giyim Satış Otomasyonu\Spor Giyim Satış Otomasyonu\obj\Debug\Spor_Giyim_Satış_Otomasyonu.musterieklemeformu.resources
+C:\Users\LENOVO\Desktop\spor giyim satış otomasyonu\Spor Giyim Satış Otomasyonu\Spor Giyim Satış Otomasyonu\obj\Debug\Spor_Giyim_Satış_Otomasyonu.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\spor giyim satış otomasyonu\Spor Giyim Satış Otomasyonu\Spor Giyim Satış Otomasyonu\obj\Debug\Spor Giyim Satış Otomasyonu.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\spor giyim satış otomasyonu\Spor Giyim Satış Otomasyonu\Spor Giyim Satış Otomasyonu\obj\Debug\Spor Giyim Satış Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\spor giyim satış otomasyonu\Spor Giyim Satış Otomasyonu\Spor Giyim Satış Otomasyonu\bin\Debug\Spor Giyim Satış Otomasyonu.exe.config
+C:\Users\LENOVO\Desktop\spor giyim satış otomasyonu\Spor Giyim Satış Otomasyonu\Spor Giyim Satış Otomasyonu\bin\Debug\Spor Giyim Satış Otomasyonu.exe
+C:\Users\LENOVO\Desktop\spor giyim satış otomasyonu\Spor Giyim Satış Otomasyonu\Spor Giyim Satış Otomasyonu\bin\Debug\Spor Giyim Satış Otomasyonu.pdb
+C:\Users\LENOVO\Desktop\spor giyim satış otomasyonu\Spor Giyim Satış Otomasyonu\Spor Giyim Satış Otomasyonu\obj\Debug\Spor Giyim Satış Otomasyonu.exe
+C:\Users\LENOVO\Desktop\spor giyim satış otomasyonu\Spor Giyim Satış Otomasyonu\Spor Giyim Satış Otomasyonu\obj\Debug\Spor Giyim Satış Otomasyonu.pdb
+C:\Users\LENOVO\Desktop\spor giyim satış otomasyonu\Spor Giyim Satış Otomasyonu\Spor Giyim Satış Otomasyonu\obj\Debug\Spor_Giyim_Satış_Otomasyonu.musterilistelemeformu.resources
+C:\Users\LENOVO\Desktop\spor giyim satış otomasyonu\Spor Giyim Satış Otomasyonu\Spor Giyim Satış Otomasyonu\obj\Debug\Spor_Giyim_Satış_Otomasyonu.kategoriformu.resources
+C:\Users\LENOVO\Desktop\spor giyim satış otomasyonu\Spor Giyim Satış Otomasyonu\Spor Giyim Satış Otomasyonu\obj\Debug\Spor_Giyim_Satış_Otomasyonu.markaformu.resources
+C:\Users\LENOVO\Desktop\spor giyim satış otomasyonu\Spor Giyim Satış Otomasyonu\Spor Giyim Satış Otomasyonu\obj\Debug\Spor_Giyim_Satış_Otomasyonu.uruneklemeformu.resources
+C:\Users\LENOVO\Desktop\spor giyim satış otomasyonu\Spor Giyim Satış Otomasyonu\Spor Giyim Satış Otomasyonu\obj\Debug\Spor_Giyim_Satış_Otomasyonu.urunlistelemeformu.resources
+C:\Users\LENOVO\Desktop\spor giyim satış otomasyonu\Spor Giyim Satış Otomasyonu\Spor Giyim Satış Otomasyonu\obj\Debug\Spor_Giyim_Satış_Otomasyonu.satislistelemeformu.resources
+C:\Users\LENOVO\Desktop\spor giyim satış otomasyonu\Spor Giyim Satış Otomasyonu\Spor Giyim Satış Otomasyonu\obj\Debug\Spor_Giyim_Satış_Otomasyonu.faturaformu.resources
